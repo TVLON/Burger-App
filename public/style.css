@@ -1,0 +1,12 @@
+.undevouredBurgers {
+float: left;
+}
+
+.devouredBurgers {
+	float: right;
+}
+
+.form-inline{
+	float: left;
+}
+
